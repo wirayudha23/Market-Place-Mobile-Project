@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_array">
+        <item>Sayur</item>
+        <item>Pelet</item>
+        <item>Buah</item>
+        <item>Pur</item>
+        <item>Beras</item>
+        <!-- Tambahkan kategori lainnya sesuai kebutuhan -->
+    </string-array>
+</resources>

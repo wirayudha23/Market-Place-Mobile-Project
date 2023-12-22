@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ichoosecoffetoday</string>
+    <string name="by">by fadil ridho fanny</string>
+    <string name="wlcm">Welcome AgroTech</string>
+
+    <string name="screen1desc">"Pupuk Unggul, Panen Menguntungkan! Bersama Kualitas Terbaik, Tanaman Makin Gemilang!"</string>
+    <string name="screen2desc">"Tumbuhkan Kesejahteraan, Pilih Pupuk Berkualitas!" </string>
+    <string name="screen3desc">"Harmoni Tanaman, Kesuksesan Anda! Pupuk Terbaik, Hasil Terbaik!"</string>
+    <string name="startDesc">"Nutrisi Berkualitas, Hasil Terbaik! Pupuk Unggul, Tanaman Sehat, Panen Melimpah!"</string>
+    <string name="screen1">AgroTech Ventures</string>
+    <string name="screen2">AgroTech Ventures</string>
+    <string name="screen3">AgroTech Ventures</string>
+
+</resources>

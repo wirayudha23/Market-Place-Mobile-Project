@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "951770934409",
+    "firebase_url": "https://whatafineweathertoday-c1361-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "whatafineweathertoday-c1361",
+    "storage_bucket": "whatafineweathertoday-c1361.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951770934409:android:9dfb4691d2a9d2afd2aa58",
+        "android_client_info": {
+          "package_name": "com.example.ichoosecoffetoday"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxYfIl6PoNBQb3srTvC3SzWxGXIkrvL24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
